@@ -32,7 +32,7 @@ static const uint8_t SCL = 5;
 
 
 
-This reads and sets the status of 16 digital channels via PCF8574, and reads Voltage, Current, and Wattage via INA226 over I2C.
+This reads and sets the status of 16 digital channels via PCF8574, and reads Voltage, Current, and Wattage via INA226.
 
 Desktop             |  Mobile
 :-------------------------:|:-------------------------:
