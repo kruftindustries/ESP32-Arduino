@@ -5,7 +5,7 @@ Tested on KiCony KC868-A16 | Pinout
 :-------------------------:|:-------------------------:
 ![KC868-A16](https://github.com/user-attachments/assets/9053a999-cb6e-4c21-93d5-177785851ad7)|![ESP32-WROOM-32e Pinout](https://github.com/user-attachments/assets/a5f06755-1bcb-472d-89d0-6c821c5ebba6)
 
-Tested using Arduino 2.3.4 *** ESP32 Dev Module *** board with the following settings:
+Tested using Arduino 2.3.4 **ESP32 Dev Module** board with the following settings:
 ![alt text](https://github.com/user-attachments/assets/11c2dcfe-1d54-4f9c-a2fb-3b92e104409e)
 
 I had to modify pins_arduino.h for this board
