@@ -47,7 +47,7 @@ connecting to google.com
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.com/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-JrDJEvd0ZMK3X03sZVAztQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-00000000000000000000' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
 Date: Sun, 12 Jan 2025 11:13:35 GMT
 Expires: Tue, 11 Feb 2025 11:13:35 GMT
 Cache-Control: public, max-age=2592000
